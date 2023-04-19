@@ -72,7 +72,6 @@ namespace ChainMesh {
             shapeTypes = new ObservableCollection<string>(new string[] { "Box", "Sphere", "Plane", "Cylinder", "Chain" });
             selectedShapeType = "Chain";
             CreateGeometry();
-
         }
 
         public MemoryStream LoadFileToMemory(string filePath) {

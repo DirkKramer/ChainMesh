@@ -10,11 +10,7 @@
   <ItemGroup>
     <None Remove="Metal\Metal026_2K_Color.jpg" />
     <None Remove="Metal\Metal026_2K_Displacement.jpg" />
-    <None Remove="Metal\Metal026_2K_Metalness.jpg" />
     <None Remove="Metal\Metal026_2K_NormalDX.jpg" />
-    <None Remove="Metal\Metal026_2K_NormalGL.jpg" />
-    <None Remove="Metal\Metal026_2K_Roughness.jpg" />
-    <None Remove="Metal\Metal026_PREVIEW.jpg" />
   </ItemGroup>
 
   <ItemGroup>
@@ -24,19 +20,7 @@
     <Content Include="Metal\Metal026_2K_Displacement.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Metal\Metal026_2K_Metalness.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
     <Content Include="Metal\Metal026_2K_NormalDX.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Metal\Metal026_2K_NormalGL.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Metal\Metal026_2K_Roughness.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Metal\Metal026_PREVIEW.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
